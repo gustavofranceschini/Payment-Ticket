@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentTicket", "PaymentTicket\PaymentTicket.csproj", "{FDB1CB9C-C439-40E5-AFA5-57E66AE35378}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB1CB9C-C439-40E5-AFA5-57E66AE35378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB1CB9C-C439-40E5-AFA5-57E66AE35378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB1CB9C-C439-40E5-AFA5-57E66AE35378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB1CB9C-C439-40E5-AFA5-57E66AE35378}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4664F1B1-A513-454F-A81F-63C230FB6600}
+	EndGlobalSection
+EndGlobal
